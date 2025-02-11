@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz@14..32&display=swap');
+
+.container{
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content{
+  max-width: 560px;
+  width: 100%;
+  padding: 40px;
+}
+.logo{
+  margin-bottom: 56px;
+}
+
+.title-image{
+  margin-bottom: 56px;
+  max-width: 100%;
+}
+p{
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #888888;
+
+}
+
+.cta {
+  background-color: #1B1B1B;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+.cta:hover {
+  background-color: #474747;
+}
