@@ -5,4 +5,9 @@
         <lastmod>2024-02-12</lastmod>
         <priority>1.0</priority>
     </url>
-</urlset>  
+    <url>
+        <loc>https://cal.com/founding.day/intro</loc>
+        <lastmod>2024-02-12</lastmod>
+        <priority>0.8</priority>
+    </url>
+</urlset>
